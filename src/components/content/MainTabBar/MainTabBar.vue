@@ -18,7 +18,7 @@
       <tab-bar-item path="/profile" activeColor="blue">
         <img slot="item-icon" src="@assets/img/icon/wode.png" alt="">
         <img slot="item-icon-active" src="@assets/img/icon/wode-active.png" alt="">
-        <div slot="item-text">我的</div>
+        <div slot="item-text">我的asdasd</div>
       </tab-bar-item>
     </tab-bar>
 </template>
